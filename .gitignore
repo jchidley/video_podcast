@@ -1,0 +1,75 @@
+# Video/Audio working files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.aac
+
+# Exclude raw footage but include final exports
+raw/
+!exports/
+
+# Thumbnail working files
+*.psd
+*.xcf
+*.ai
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Build artifacts
+target/
+dist/
+build/
+*.o
+*.so
+*.dylib
+*.exe
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Backup files
+*.bak
+*.backup
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Keep exports directory structure
+!exports/.gitkeep
