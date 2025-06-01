@@ -67,3 +67,11 @@ Impact: Single comprehensive initial commit provides clear project genesis and i
 ### 2025-06-01: Episode Topic Pivot - AI Focus
 Insight: Personal AI workflows (Claude Code session management, WSL Alpine) make more compelling pilot content than generic topics
 Impact: Leveraging unique, battle-tested systems provides authentic value and differentiates content from basic tutorials
+
+### 2025-06-01: Session Directory Structure - Security Through Restriction
+Insight: Restricting Claude Code to child directories prevents accidental system-wide changes
+Impact: Provides natural security boundary without hampering productivity, prevents unintended modifications to system files
+
+### 2025-06-01: Content Strategy Pivot - Authentic Personal Tools
+Insight: Personal tool demonstrations (AI workflows, custom WSL) provide more authentic value than generic tutorials
+Impact: Creates unique content that can't be easily replicated, builds credibility through real-world usage examples
