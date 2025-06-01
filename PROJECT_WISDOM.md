@@ -59,3 +59,11 @@ Impact: Can leverage 30+ articles as episode foundations, ensuring authentic exp
 ### 2025-06-01: License Implementation Best Practice
 Insight: Always use exact official license texts with only explicitly allowed modifications
 Impact: Ensures legal validity and avoids any ambiguity in open source licensing
+
+### 2025-06-01: Git History Management
+Insight: Clean commit history from the start makes project more professional and maintainable
+Impact: Single comprehensive initial commit provides clear project genesis and intent
+
+### 2025-06-01: Episode Topic Pivot - AI Focus
+Insight: Personal AI workflows (Claude Code session management, WSL Alpine) make more compelling pilot content than generic topics
+Impact: Leveraging unique, battle-tested systems provides authentic value and differentiates content from basic tutorials

@@ -1,27 +1,27 @@
 # Project: Video Podcast - Technical Content Creation System
-Updated: 2025-06-01 10:23:25
+Updated: 2025-06-01 11:15:00
 
 ## Current State
-Status: Public GitHub repository created with proper licensing
-Target: Launch pilot episode on Rust embedded development
-Latest: Successfully created https://github.com/jchidley/video_podcast
+Status: Two episode plans created, recording infrastructure documented
+Target: Launch pilot episode on "How I Use AI" 
+Latest: Created comprehensive episode plans for AI workflows and WSL Alpine
 
 ## Essential Context
-- Repository is PUBLIC with dual Apache/MIT + CC BY 4.0 licensing
-- All licenses use exact official text with only allowed modifications
-- Initial commit pushed with 11 foundational documents
-- Content strategy aligned with 30+ existing technical articles
-- Focus: Rust, embedded systems, AI coding, language implementation
+- Public repo: https://github.com/jchidley/video_podcast
+- Complete licensing framework (Apache/MIT + CC BY 4.0)
+- Pilot episode: "How I Use AI" - showcasing Claude Code session management
+- Second episode: "Building Custom WSL Distribution" - Alpine Linux focus
+- Recording setup documented with OBS Studio recommendations
 
 ## Next Step
-Set up technical infrastructure and recording environment
+Practice recording a 2-minute test segment with OBS Studio
 
 ## If Blocked
-None - repository is live and ready for development
+None
 
 ## Related Documents
 - PROJECT_WISDOM.md - Technical insights
 - CONTENT_STRATEGY.md - Detailed content plan
-- SYSTEM_DESIGN.md - Video podcast architecture
-- LICENSING-GUIDE.md - Implementation guide
-- SESSION_ARCHIVE.md - Session history
+- RECORDING_SETUP.md - Complete recording infrastructure guide
+- episodes/pilot-how-i-use-ai.md - Pilot episode plan
+- episodes/wsl-alpine-custom-distro.md - WSL Alpine episode plan
