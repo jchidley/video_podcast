@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/video_podcast",
+  "decision": "no-change-required",
+  "reviewedCommit": "6ca1b8333214168a184dfa5d07089ea08ca409dd",
+  "operation": "inspect",
+  "files": {
+    "CONTENT_STRATEGY.md": "523c0e09dbfdfea35d707f2c3b2525404671beb5a05201e26640e8f9d909473d",
+    "HANDOFF.md": "b6a2ebca5e712f41459e434d70159bdd879e53f6a18ec4ffb5921bf05cdb2886",
+    "PROJECT_WISDOM.md": "0f7d54fb8e30838f59be26e47484964aa850449766bf371040e731578103fe62",
+    "README.md": "2d77bc367d38a8a9b4fe0229bb24a7a81baa0ec44853658bcaa5acda3006a49b",
+    "RECORDING_SETUP.md": "ae08c09ce4dc8e889873bfd6f49f3b778b05c3979fa75404a089a551e858de3a",
+    "SYSTEM_DESIGN.md": "3ad41e45d3ca07ab7d26260f80b6340812737901279d4f7b5a37d0aa1a844c75",
+    "episodes/pilot-how-i-use-ai.md": "f9eb829912067c67e33cf2642ccd10d1770ae5649452038fa7ceb87ed4304163",
+    "episodes/wsl-alpine-custom-distro.md": "edb4a802d88e59fd7eb051174c97f77143de0ed267722016d4389646d54162d1"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Current reviewed guidance scope requires no repository-local change.",
+  "evidenceSummary": [
+    "Retain no-local-surface: complete 17-entry content-planning tree and eight complete README/handoff/design/wisdom/setup/episode files establish June 2025 recording plans, not installed slash commands or coding-agent startup policy. Claims that child-directory scope is a security boundary and scripted 68-test/production-ready demos are unverified historical content, not accepted facts. No session archive or audiovisual source was inspected; no recording, setup, unregister/reset, account or publication operation.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Prior semantic findings retained as historical evidence, not independently re-certified by this verification pass."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.477Z",
+  "publicationApproved": false
+}
